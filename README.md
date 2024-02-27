@@ -2,7 +2,7 @@
 
  ###  Car Insurance Quote Page ###
 
-##   Description: 
+####  Description: 
 
 This project involves creating an interactive car insurance quote webpage using HTML, CSS, and JavaScript. The user can input their details such as age
 This project involves creating an interactive car insurance .html file that allows users to input their vehicle details.   
