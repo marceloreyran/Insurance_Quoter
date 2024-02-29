@@ -12,8 +12,8 @@ This project was developed as part of the Microverse curriculum.     It involves
 This project was created to demonstrate my skills in HTML, CSS   and JavaScript programming languages. The purpose of this websiteThis project was created to demonstrate.
 
 
-## 🛠 Built With <a name="built_with"></a> #####      
-# :construction_worker: Author
+## 🛠 Marcelo <a name="Marcelo"></a> #####      
+# :construction_worker: Marcelo
 
 👤 **Marcelo Reyna Rangel**
 
