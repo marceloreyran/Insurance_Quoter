@@ -14,7 +14,7 @@ This project was created to demonstrate my skills in HTML, CSS   and JavaScript 
 
 
 
-### 🛠 :construction_worker: Marcelo  **Marcelo Reyna Rangel**
+### 🛠 :construction_worker: **Marcelo Reyna Rangel**
 
 - GitHub: [@marceloreyran](https://github.com/marceloreyran)
 - LinkedIn: [@marceloreyran](https://www.linkedin.com/in/marcelo-reyna-rangel-83b813216/)
