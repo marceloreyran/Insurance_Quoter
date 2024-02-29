@@ -12,10 +12,9 @@ This project was developed as part of the Microverse curriculum.     It involves
 This project was created to demonstrate my skills in HTML, CSS   and JavaScript programming languages. The purpose of this websiteThis project was created to demonstrate.
 
 
-## 🛠 Marcelo <a name="Marcelo"></a> #####      
-# :construction_worker: Marcelo
 
-👤 **Marcelo Reyna Rangel**
+
+### 🛠 :construction_worker: Marcelo  **Marcelo Reyna Rangel**
 
 - GitHub: [@marceloreyran](https://github.com/marceloreyran)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcelo-reyna-rangel-83b813216/)
+- LinkedIn: [@marceloreyran](https://www.linkedin.com/in/marcelo-reyna-rangel-83b813216/)
